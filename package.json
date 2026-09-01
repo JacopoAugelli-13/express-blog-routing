@@ -1,0 +1,15 @@
+{
+  "name": "blog-intro-express",
+  "version": "1.0.0",
+  "description": "Questo è il mio blog",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

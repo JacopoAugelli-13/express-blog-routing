@@ -1,6 +1,6 @@
 export const post = [
     {
-    id: "post-101",
+    id: 1,
     titolo: "Guida alla modalità Watch di Node.js",
     stato: "pubblicato",
     dataPubblicazione: "2026-09-01T09:00:00Z",
@@ -37,7 +37,7 @@ export const post = [
     }
   },
   {
-    id: "post-102",
+    id: 2,
     titolo: "La postazione perfetta per il Dev",
     stato: "programmato",
     dataPubblicazione: "2026-09-04T18:30:00Z",
@@ -68,7 +68,7 @@ export const post = [
     }
   },
   {
-    id: "post-103",
+    id: 3,
     titolo: "Reel - Errore JSONParseSpiegato",
     stato: "bozza",
     dataPubblicazione: "2026-09-07T14:15:00Z",

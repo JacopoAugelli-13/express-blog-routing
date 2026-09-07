@@ -1,6 +1,5 @@
 import express from 'express';
-import { post } from './post.js';
-import { error } from 'node:console';
+import { post } from './post.js'
 
 export const router = express.Router();
 

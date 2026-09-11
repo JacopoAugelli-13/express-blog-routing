@@ -6,7 +6,7 @@ const port = 3000
 
 app.use(express.json())
 app.use('/' , router)
-app.use('/posts', bRoutes)
+app.use('/data', bRoutes)
 
 app.get('/', (req, res) => {
   res.send('Benvenuti nel mio Blog!')
